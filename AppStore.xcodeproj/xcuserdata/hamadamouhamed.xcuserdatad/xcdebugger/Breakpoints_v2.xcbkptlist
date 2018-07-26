@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppStore/CategoryCell.swift"
+            timestampString = "540575570.5371161"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "135"
+            endingLineNumber = "135"
+            landmarkName = "CategoryLabel"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppStore.AppCell.init(frame: __C.CGRect) -&gt; AppStore.AppCell"
+                  moduleName = "AppStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamadamouhamed/Desktop/AppStore/AppStore/CategoryCell.swift"
+                  timestampString = "540575570.943195"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "366">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "variable initialization expression of AppStore.AppCell.CategoryLabel : __ObjC.UILabel"
+                  moduleName = "AppStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamadamouhamed/Desktop/AppStore/AppStore/CategoryCell.swift"
+                  timestampString = "540575570.947928"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppStore.AppCell.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;AppStore.AppCell&gt;"
+                  moduleName = "AppStore"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hamadamouhamed/Desktop/AppStore/AppStore/CategoryCell.swift"
+                  timestampString = "540575570.951838"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "135"
+                  endingLineNumber = "135"
+                  offsetFromSymbolStart = "319">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
